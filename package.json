@@ -9,7 +9,7 @@
     "build": "env-cmd -f .env next build",
     "start": "env-cmd -f .env next start",
     "lint": "next lint",
-    "test": "jest --watchAll --env=jsdom"
+    "test": "jest --env=jsdom"
   },
   "dependencies": {
     "@react-google-maps/api": "^1.9.7",
