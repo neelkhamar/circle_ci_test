@@ -91,7 +91,7 @@ Button.propTypes = {
 };
 
 const BtnGroup = ({ children }) => {
-  return <ButtonStyledGroup> {children} </ButtonStyledGroup>;
+  return <ButtonStyledGroup>{children}</ButtonStyledGroup>;
 };
 
 BtnGroup.propTypes = {
