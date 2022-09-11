@@ -1,0 +1,12 @@
+export const fireConfig = {
+  "type": "service_account",
+  "project_id": "porteton-57631",
+  "private_key_id": "7a69798b5937e5e3c51be7db53c673024e48e80f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyTLynCyycxTkw\nhC0WJYmkU2xllnsoYxJI+NLwH1JNT2xa1j7qt8YRLL2zdAnSO/PH7BC+Gdjb0k8b\nX8A1zlGnPAgc8udMMH+QgY+fuCuzXIW9ACxsjbNssXuvOnxn7JcFXGs4e73y88Zp\nQ4/JrrolhPTaDdmGKmcgZqSk3g5Fw8kYyZp9FYyxBkQnFcXExRl/dKlcaLd3H9Fo\nIiva6tEgJKEq1cGLQpI3we8h1gLnCERW/RtUC+CArWZ6DgwSoyQtedAXgQaCtiPd\nmIHVBxxKsZSdJSTeh7uWGZFHitOfiVR7POhxGN1ZAd3zjBe8ELoy3uPDXU10t82O\n3vdUuHqDAgMBAAECggEAAfCGgH7MkN30XWwdotBEWciyMUi2Hyzc8xYJKJa9Q7bU\nqljBmpH8hV3SbePUkgjHqjiC1h0wfn6kF7b/DGOXbfg7Q9kCbHwJNAIigqHSl+A1\n5ZkfOlzJ2WQoEU+vDCLR7Le/ZSDfW00401FYJMsbKXNEAn0Pgk4eSyC8xacKOAVN\nc/ud+P3osK1pgS53MMdazPUqZXWteqa0tU6h/SqSYCGsE6Qvi/Ok8X6ynO6iuFlu\ngY77e+gruUgyYdhh9cwyiaPOeTk04apL6Uvv1sYXQvfrfmJpG5WHwnu/XJo29Yy0\nonkX0FXvhFpqOM8xY+CiKFOerreDvP/ekG7u5tdlwQKBgQDqdDb37m5BeBdyUopl\n6VmFkfnxB95x+9SIim3sxdqmEqABZvDvQ4172BkKgUBdt6SaQdKGnMxrm7ZT0uJs\nV6OKfT+ue/XKtWljURwugWbA4r7yGUU5VjvSMYFu34jVMsWMztB6QTj9DvxcnSn2\nRHFEmEYsAuZnlXTZvucxwOr3xwKBgQDCr27iunwCb0sHr4nDcT3jeMb0sxEi+Rf4\nTVxuD9Bk7oRDFFFVD/rcORbMGItDoYu4B3VZPTMIB8DmLCDRjGIjH8piCbmMmiHg\nAek+vJu6PFSH9NPKb8B+B9GALWmxMUF6KK8oupKxqwAGdWSfv8f4/mFXyOjCw3R6\njqFBKh9/ZQKBgQCHuV007AdRySaxnMzXsF2NsHLjsK16iNGBdbmrDuLDrxaHmUMz\nD4UxQ2lDpo1Pc4dLcX1hRhYk2VCUeAlxtM5M1rLt3H7uqVRoFUVeOrT0Ro9JcY2c\nYqpgxR3rxGXfHfQ0zmjrzSQjgvBe4PCwyvBTSF+fDNK69k9d2mDWcZrUcwKBgQCt\n41P/XuF0q0Mw0jESSAsnKbFKzsX3ntUyCqcMB0PzYrbv0y3x9Bv0p2kdUq7Q8XGC\nJedClc8G1SYOcEu/3suo47Q4bMc2NlUbZ5mVV5EgftJhvOOOZNJhv0n4WpeUlJIP\nMleA4WQ1HK8hFamSphFO7Ka1adW8YCehb9PICH+poQKBgFfF5GwczlXVRsPoaams\ndU3y73s3qB6tSE7Cly80vWQS43mxiwAI93f5CsOghMG58YTxhU0eB3qzdiFrLP5n\n2Bhc3gM6DaDknMLTTYde4buPUQpbqmND1RE8v4D7KRiCRgJ4AExQ4syYFVwoUxEe\nUpWYFBzCKGvk1N7tEi2Z4HK4\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rtjwq@porteton-57631.iam.gserviceaccount.com",
+  "client_id": "111566397370078280335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rtjwq%40porteton-57631.iam.gserviceaccount.com"
+}
